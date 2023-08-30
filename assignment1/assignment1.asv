@@ -270,7 +270,7 @@ ROI = (totalRevenue - totalCosts) / totalCosts * 100;
 
 disp("Hello World")
 
-disp(input("Type whatever you'd like! ", "s"))
+usinput("Type whatever you'd like! ")
 
 
 %%%%% When you have completed everything, type the following two commands
