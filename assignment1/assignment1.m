@@ -26,7 +26,7 @@ helpURL = 'https://www.mathworks.com/help/matlab/';
 
 % 2. What does the command 'clear all' do?
 %
-% Answer: The command clear all removes any items from the workspace &
+% Answer: The command 'clear all' removes any items from the workspace &
 % frees up system memory.
 %
 
@@ -49,7 +49,7 @@ ver        %<- command goes here (to left of %)
 % named 'images'
 help images 
 
-% the stack overflow solution
+% the stack solution
 % (https://stackoverflow.com/questions/51942464/programmatically-return-a-list-of-all-functions)
 metaPackageImageProcessing = meta.package.fromName('images');
 
